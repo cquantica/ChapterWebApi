@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IXkMaeUGOiZXw8cqhNHB7HJD/M355bZ6NPh3iIt5liAkNra+y1/Mh/ZL+Z/QYMSRQANlmmi52Ysjux2x90MJGA==",
+  "dgSpecHash": "Xp7LiZOQvtXSUVenIJkD80ee2g+8aezi/uoIPqANzvsFTGz46dtEnoC96lU5dHtXSgy9YdPCYCnnLovqjCfV4Q==",
   "success": true,
   "projectFilePath": "F:\\Senai\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
   "expectedPackageFiles": [
@@ -99,7 +99,7 @@
     "C:\\Users\\Hyasmin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Hyasmin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Hyasmin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Hyasmin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\Hyasmin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
   "logs": []
 }

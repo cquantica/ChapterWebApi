@@ -24,7 +24,7 @@ namespace ChapterApiWeb.Contexts
             if (!optionsBuilder.IsConfigured)
             {
                 // cada provedor tem sua sintaxe para especificação
-                optionsBuilder.UseSqlServer("Data Source = DESKTOP-98U2MDO\\SQLEXPRESS; initial catalog = Chapter; Integrated Security = true");
+                optionsBuilder.UseSqlServer("Data Source = DESKTOP-CRRUGCE\\SQLEXPRESS; initial catalog = Chapter; Integrated Security = true");
             }
         }
         // dbset representa as entidades que serão utilizadas nas operações de leitura, criação, atualização e deleção
